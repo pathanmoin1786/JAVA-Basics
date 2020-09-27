@@ -30,3 +30,10 @@ limk of the code :https://github.com/pathanmoin1786/JAVA-Basics/blob/master/prog
  -
  -
 # day-4
+ # program4
+ *here we learn about what are the variables & data type's 
+ *here you can learn variable declaration & variable intitialization
+ link of the code:https://github.com/pathanmoin1786/JAVA-Basics/blob/master/variabledeclaration.java
+ -
+ -
+ -
